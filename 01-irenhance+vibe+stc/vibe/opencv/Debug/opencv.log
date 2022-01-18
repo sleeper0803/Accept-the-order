@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\zeta\desktop\3510调试\vibe版本二\opencv\main.cpp(12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\zeta\desktop\3510调试\vibe版本二\opencv\main.cpp(13): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+c:\users\zeta\desktop\3510调试\vibe版本二\opencv\main.cpp(13): warning C4244: “初始化”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\zeta\desktop\3510调试\vibe版本二\opencv\main.cpp(14): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+c:\users\zeta\desktop\3510调试\vibe版本二\opencv\main.cpp(14): warning C4244: “初始化”: 从“double”转换到“const unsigned int”，可能丢失数据
+c:\users\zeta\desktop\3510调试\vibe版本二\opencv\main.cpp(24): warning C4018: “<=”: 有符号/无符号不匹配
+  opencv.vcxproj -> C:\Users\zeta\Desktop\3510调试\vibe版本二\Debug\opencv.exe
+  opencv.vcxproj -> C:\Users\zeta\Desktop\3510调试\vibe版本二\Debug\opencv.pdb (Partial PDB)
