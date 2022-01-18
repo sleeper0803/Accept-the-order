@@ -1,4 +1,4 @@
-2021.12.07第一单
+2021.12.07第一单，完成时间2022.1.8. 一共2000，到手1600
 
 需求：
 
@@ -23,6 +23,7 @@
 //提取码: 9il7
 
 //https://blog.csdn.net/weixin_43730010/article/details/119388890
+
 //c++编码规范
 //https://google-styleguide.readthedocs.io/zh_CN/latest/google-cpp-styleguide/contents.html
 //https://blog.csdn.net/shuiyixin/article/details/83117192	
